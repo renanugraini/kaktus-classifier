@@ -1,4 +1,6 @@
 streamlit
-tensorflow==2.14.0
+os-sys
+temp
+tensorflow
 numpy
 pillow
